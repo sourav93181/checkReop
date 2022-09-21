@@ -1,0 +1,28 @@
+.home-cont{
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    border: 0.1vh solid gray;
+    margin: auto;
+}
+.home-inputfield{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 0.1vh solid gray;
+    height: 10vh;
+}
+.inputfield1{
+    width: 40vw;
+    height: 6vh;
+}
+.buttonfield{
+    width: 10vw;
+    height: 6vh;
+}
+.todolist-cont{
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+}

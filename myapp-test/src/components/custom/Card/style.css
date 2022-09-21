@@ -1,0 +1,8 @@
+.Card-Cont{
+    display: flex;
+    flex-direction: column;
+    border: 0.1vh solid gray;
+    width: 60vw;
+    margin: auto;
+    gap: 2vh;
+}

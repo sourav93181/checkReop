@@ -1,0 +1,23 @@
+.form-cont{
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    margin: auto;
+    border: 0.1vh solid gray;
+    align-items: center;
+    gap:2vh;
+    border-radius: 2vh;
+    padding: 2vh;
+}
+
+.input-box-text{
+    width: 40vw;
+    height: 7vh;
+    border-radius: 2vh;
+}
+
+.form-button{
+    width: 20vw;
+    height: 7vh;
+    border-radius: 2vh;
+}
